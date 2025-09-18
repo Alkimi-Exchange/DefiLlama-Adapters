@@ -7,27 +7,27 @@ const SUI_COINGECKO_ID = "sui"
 
 const AMM_POOLS = [
   {
-    id: "0x5cf7e2ec9311d9057e43477a29bd457c51beeb1ddcd151c385a295dbb3c0fb18",
+    id: "0x5cf7e2ec9311d9057e43477a29bd457c51beeb1ddcd151c385a295dbb3c0fb18",	// Cetus
     coinA: { id: ALKIMI_COINGECKO_ID, decimals: ALKIMI_DECIMALS },
     coinB: { id: SUI_COINGECKO_ID, decimals: SUI_DECIMALS },
   },
   {
-    id: "0x7a1ff1044fb4141c0cccd340605472077480606d4c28c74be7ab87f4ee4852be",
+    id: "0x7a1ff1044fb4141c0cccd340605472077480606d4c28c74be7ab87f4ee4852be",	//BlueFin
     coinA: { id: ALKIMI_COINGECKO_ID, decimals: ALKIMI_DECIMALS },
     coinB: { id: SUI_COINGECKO_ID, decimals: SUI_DECIMALS },
   },
   {
-    id: "0x2ae42f340d32653cd079f3e80e2e6c2f9485cd8a91491bac0b47e93708c8f049",
+    id: "0x2ae42f340d32653cd079f3e80e2e6c2f9485cd8a91491bac0b47e93708c8f049",	// Turbos
     coinA: { id: ALKIMI_COINGECKO_ID, decimals: ALKIMI_DECIMALS },
     coinB: { id: SUI_COINGECKO_ID, decimals: SUI_DECIMALS },
   },
   {
-    id: "0x9d37052563cccad03f794caf914f14cb0505d0782020b8a3ff97cea126791a33",
+    id: "0x9d37052563cccad03f794caf914f14cb0505d0782020b8a3ff97cea126791a33",	// SuiLend
     coinA: { id: ALKIMI_COINGECKO_ID, decimals: ALKIMI_DECIMALS },
     coinB: { id: SUI_COINGECKO_ID, decimals: SUI_DECIMALS },
   },
   {
-    id: "0x17bac48cb12d565e5f5fdf37da71705de2bf84045fac5630c6d00138387bf46a",
+    id: "0x17bac48cb12d565e5f5fdf37da71705de2bf84045fac5630c6d00138387bf46a",	// Full Sail
     coinA: { id: ALKIMI_COINGECKO_ID, decimals: ALKIMI_DECIMALS },
     coinB: { id: SUI_COINGECKO_ID, decimals: SUI_DECIMALS },
   },
